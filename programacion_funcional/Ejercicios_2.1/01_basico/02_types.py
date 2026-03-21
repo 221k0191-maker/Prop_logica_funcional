@@ -6,7 +6,6 @@ if system ("clear") !=0: system("cls")
 El comando `type()` devuelve el tipo de un objeto de Python
 """
 
-// para que veamos enteros y flotantes
 
 print("init:")#Enteros (numeros sin parte decimal)
 print(type(10))
@@ -28,9 +27,9 @@ print(type(""))
 print(type("123"))#Aunque paresca un numero, esta entre comillas, por lo que es un texto
 print(type("""
   Multilinea
-"""
+"""))
            
-print("bool:"))#Valores booleanos (True and False)
+print("bool:")#Valores booleanos (True and False)
 print(type(True))
 print(type(False))
 print(type(1<2))
@@ -38,13 +37,3 @@ print(type(1<2))
 print("Nonetype:") #Representa la ausencia del valor
 print(type(None)) #'None' Es un tipo espacial en python que reresenta sin valor
            
-
- 
-
-
-
-
-
-
-
-

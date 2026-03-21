@@ -18,6 +18,6 @@ print(42)
 
 print('Esto es una "pulgada" dentro de un string con comillas simples')
 
-print("Esto es una "pulgada\" dentro de unstring con comillas dobles")
+print("Esto es una \"pulgada\" dentro de un string con comillas dobles")
       
 print("""Esyo es una "pulgada" dentro de un string triple comillas""")

@@ -5,7 +5,7 @@ print("conversión de tipos")
 
 print(int("100")+ 2) 
 
-print(int("100" + str(2))#convierte el numero 2 a cada y lo concatena(unir).
+print(int("100" + str(2)))#convierte el numero 2 a cada y lo concatena(unir).
 
 print(type(float("3.1416")))
 
@@ -23,15 +23,3 @@ print(bool("False")) #Una cadena de texto
 
 #rendodear un numero decimal 
 print(round(2.51))#Redondear el decimal al numero mas cercano 
-
-
-
-
-
-
-
-
-
-
-      
-      

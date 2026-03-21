@@ -10,11 +10,11 @@ print(f"Hola{nombre}, encantada de cnocerte")
 #As que si queremos obtener un numero se debe convertir el string a un numero
 age = input("¿Cuantos años tiene?\n")
 age = int(age)
-print(f("Tienes{age} años")
+print(f("Tienes{age} años"))
       
 #La funcion input() tambien puede decolver multiples valores
 #Para hacerlo, el usuario debe separar los valores con una coma
 print("Obtener multiples valores a lo ver")
-country, city = input("¿En que ciudad y pais vives=\n".split()
+country, city = input("¿En que ciudad y pais vives=\n".split())
                       
-print(f"Vives en {country}, {city})
+print(f"Vives en {country}, {city}")
